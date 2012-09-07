@@ -1,0 +1,4 @@
+-D
+==
+
+Perlu adaptasi lagi 
